@@ -1,0 +1,104 @@
+.container{
+    width: 300px;
+    margin: 10px auto 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 2px;
+    
+  }
+
+.green {
+    background-color: black;
+    text-align: center;  
+    overflow: hidden;
+    padding: 10 0 10 0px;
+}
+.green p{
+    color: white;
+    margin: 0px; 
+    padding: 0px; 
+}
+
+.icon-bar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+    margin: 2 0 2 0px;
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 5px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #4CAF50 !important;
+}
+
+.new {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.a {
+  display: inline-block;
+  border: 1px solid red;
+  background-color: black;
+  width: 95px;
+  bottom: 10%;
+  left: 15%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-size: 12px;
+}
+.b {
+  display: inline-block;
+   border: 1px solid red;
+  background-color: black;
+  width: 95px;
+  bottom: 10%;
+  left: 45%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-size: 12px;
+}
+.c {
+  display: inline-block;
+   border: 1px solid red;
+  background-color: black; 
+  width: 97px;
+  bottom: 10%;
+  left: 75%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-size: 12px;
+}
+.d {
+  display: inline-block;
+  border: 1px solid red;
+  background-color: black;
+  width: 298px;
+  bottom: 10%;
+  left: 15%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  font-size: 12px;
+}
+.e{
+    margin: 2px;
+}
